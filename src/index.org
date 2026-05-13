@@ -11,6 +11,7 @@
 #+ATTR_ORG: :width 70%
 [[file:figures/rock_climbing.webp]]
 
+#+ATTR_HTML: :target _blank
 I am Cody Solie, an incoming Master's student in Mathematics at [[https://www.sfu.ca/math.html][Simon Fraser University]].
 My research interests lie broadly among extremal combinatorics, computational
 complexity, and digital communications. Many of the problems I study have
