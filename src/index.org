@@ -12,12 +12,14 @@
 [[file:figures/rock_climbing.webp]]
 
 #+ATTR_HTML: :target _blank
-I am Cody Solie, an incoming Master's student in Mathematics at [[https://www.sfu.ca/math.html][Simon Fraser University]].
-My research interests lie broadly among extremal combinatorics, computational
-complexity, and digital communications. Many of the problems I study have
-roots in computer science, or are inspired by problems therein.
+I am Cody Solie, an Master's student in Mathematics at [[https://www.sfu.ca/math.html][Simon Fraser University]]
+under the supervision of [[https://www.sfu.ca/~jed/][Dr. Jonathan Jedwab]]. My research interests lie broadly
+among extremal combinatorics, computational complexity, and digital communications.
+Many of the problems I study have roots in computer science, or are inspired by
+problems therein.
 
-# To learn more about me, check the [[./about.org][About]] section.
+Check out my [[https://intersection-density.vercel.app][database]] of intersection densities for small transitive permutation
+groups!
 
 # View my current CV
 
