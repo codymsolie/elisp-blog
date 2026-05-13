@@ -59,6 +59,7 @@
     :html-head ,blog/html-head-common
     :html-preamble ,#'blog/html-preamble-common
     :html-postamble ,#'blog/html-postamble-common
+    :with-latex mathjax
    )
    ("org-posts"
     :base-directory ,blog/src-posts-dir-abs
