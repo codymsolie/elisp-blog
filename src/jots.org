@@ -1,5 +1,13 @@
 #+TITLE: News
 
+* Master's at SFU
+:PROPERTIES:
+:DATE:     2026-05-12
+:CUSTOM_ID: begin-masters-jot
+:END:
+I will begin my graduate studies in the Department of Mathematics at
+[[https://www.sfu.ca/math.html][Simon Fraser University]] in September 2026!
+
 * On being a student.
 :PROPERTIES:
 :DATE:     2026-05-12
