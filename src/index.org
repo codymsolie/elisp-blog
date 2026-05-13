@@ -20,7 +20,7 @@ roots in computer science, or are inspired by problems therein.
 
 # View my current CV
 
-* Blog Posts | [[./jots.html][News]]
+* Blog Posts | [[./news.html][News]]
 #+begin_src emacs-lisp :exports results :results html
   (mapconcat
    (lambda (p)

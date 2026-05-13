@@ -3,7 +3,7 @@
 * Master's at SFU
 :PROPERTIES:
 :DATE:     2026-05-12
-:CUSTOM_ID: begin-masters-jot
+:CUSTOM_ID: begin-masters-news
 :END:
 I will begin my graduate studies in the Department of Mathematics at
 [[https://www.sfu.ca/math.html][Simon Fraser University]] in September 2026!
@@ -11,7 +11,7 @@ I will begin my graduate studies in the Department of Mathematics at
 * On being a student.
 :PROPERTIES:
 :DATE:     2026-05-12
-:CUSTOM_ID: study-habits-jot
+:CUSTOM_ID: study-habits-news
 :END:
 Some people near to me have insisted that I write down my outlandish study habits
 so others can... call me crazy? I am collecting some thoughts and they will appear
