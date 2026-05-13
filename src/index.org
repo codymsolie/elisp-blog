@@ -3,17 +3,24 @@
 
 #+begin_export html
 <header>
-  <h1 class="title">My blog</h1>
+  <h1 class="title">Cody Solie</h1>
 </header>
 #+end_export
 
-TODO Some intro text about me and my blog.
+#+ATTR_HTML: :width 100%
+#+ATTR_ORG: :width 70%
+[[file:figures/rock_climbing.webp]]
 
-To learn more about me, check the [[./about.org][About]] section.
+I am Cody Solie, a Master's student in Mathematics at [[https://www.sfu.ca/math.html][Simon Fraser University]].
+My research interests lie broadly among extremal combinatorics, computational
+complexity, and digital communications. Many of the problems I study have
+roots in computer science, or are inspired by problems therein.
 
-To be notified about new posts, subscribe to an src_emacs-lisp[:exports results :results raw]{(format "[[./%s][RSS feed]]" blog/rss-xml-in-dist)}.
+# To learn more about me, check the [[./about.org][About]] section.
 
-* Posts | [[./jots.html][Jots]]
+# View my current CV
+
+* Blog Posts | [[./jots.html][News/Updates]]
 #+begin_src emacs-lisp :exports results :results html
   (mapconcat
    (lambda (p)

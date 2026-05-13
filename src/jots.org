@@ -1,14 +1,10 @@
-#+TITLE: Jots ✎
-* Mock jot 2
-:PROPERTIES:
-:DATE:     2026-05-06
-:CUSTOM_ID: some-custom-id
-:END:
-If you put a =:DATE:= property, it will be shown in the exported HTML. \\
-You can also set =:CUSTOM_ID:= if you don't want id to be derived from the jot heading.
+#+TITLE: News/Updates
 
-* The idea of a jot
+* On being a student.
 :PROPERTIES:
-:DATE:     2026-05-01
+:DATE:     2026-05-12
+:CUSTOM_ID: study-habits-jot
 :END:
-Jot is when you want to write something more casual and shorter than a post. "microblogging".
+Some people near to me have insisted that I write down my outlandish study habits
+so others can... call me crazy? I am collecting some thoughts and they will appear
+soon as a blog post.

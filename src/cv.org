@@ -1,0 +1,42 @@
+#+title: Cody Solie CV
+#+OPTIONS: html-heading-anchors:nil
+
+#+begin_export html
+<header>
+  <p> Last updated: May 2026 </p>
+</header>
+#+end_export
+
+* Education
++ *Simon Fraser University (September 2026 - Present)*
+
+  Master's of Science in Mathematics (Ongoing)
+
+
++ *University of Regina (September 2021- May 2026)*
+
+  Bachelor of Science (High Honours) Mathematics and Computer Science
+
+  GPA: 91.54%
+
+  /Awards and Scholarships/
+
+  + NSERC USRA (Spring/Summer 2026)
+    + Supervision: Dr. Tim Oleskiw
+  + NSERC USRA (Spring/Summer 2025)
+    + Supervision: Dr. Karen Meagher
+  + NSERC USRA (Spring/Summer 2024)
+    + Supervision: Dr. Karen Meagher
+  + Academic Gold Scholarship (September 2025)
+    + $1500
+    + GPA > 95% in an academic year
+  + Academic Silver Scholarship (September 2024)
+    + $500
+    + GPA > 85% in an academic year
+  + Academic Silver Scholarship (September 2026)
+    + $750
+    + GPA > 90% in an academic year
+* Projects
+** Intersection Density for Transitive Permutation Groups
+Catalogued intersection densities of small transitive
+permutation groups up to degree 24.

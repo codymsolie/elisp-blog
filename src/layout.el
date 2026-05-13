@@ -75,7 +75,7 @@
 (defun blog/html-postamble-common (_info)
   (concat
    "<div class=\"postamble-common\">" "\n"
-   "  <p>Built with care with Emacs (Org Mode).</p>" "\n"
+   "  <p>Built with Emacs (Org Mode).</p>" "\n"
    "</div>" "\n"
   )
 )
