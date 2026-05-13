@@ -1,4 +1,4 @@
-#+TITLE:My blog
+#+TITLE: Cody Solie
 #+OPTIONS: title:nil html-heading-anchors:nil
 
 #+begin_export html
@@ -20,7 +20,7 @@ roots in computer science, or are inspired by problems therein.
 
 # View my current CV
 
-* Blog Posts | [[./jots.html][News/Updates]]
+* Blog Posts | [[./jots.html][News]
 #+begin_src emacs-lisp :exports results :results html
   (mapconcat
    (lambda (p)
