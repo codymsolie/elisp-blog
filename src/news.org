@@ -7,3 +7,12 @@
 :END:
 I will begin my graduate studies in the Department of Mathematics at
 [[https://www.sfu.ca/math.html][Simon Fraser University]] in September 2026!
+
+* USRA Project (Summer 2026)
+:PROPERTIES:
+:DATE:     2026-05-01
+:CUSTOM_ID: begin-usra-2026
+:END:
+Today, I begin my S/S '26 NSERC USRA project, under the supervision
+of [[https://oleskiw.ca/][Dr. Tim Oleskiw]]. This project will investigate complex-valued learning
+models for natural shape boundaries.
