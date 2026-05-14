@@ -14,5 +14,5 @@ I will begin my graduate studies in the Department of Mathematics at
 :CUSTOM_ID: begin-usra-2026
 :END:
 Today, I begin my S/S '26 NSERC USRA project, under the supervision
-of [[https://oleskiw.ca/][Dr. Tim Oleskiw]]. This project will investigate complex-valued learning
-models for natural shape boundaries.
+of [[https://oleskiw.ca/][Dr. Tim Oleskiw]]. This project will investigate learning complex-valued
+bases of natural shape boundaries.
