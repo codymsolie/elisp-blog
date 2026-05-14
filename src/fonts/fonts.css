@@ -57,3 +57,27 @@
   font-style: italic;
   src: url('./IosevkaAile/BoldItalic.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Font Awesome Regular';
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    src: url('./FontAwesome/fa-regular-400.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Font Awesome Brands';
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    src: url('./FontAwesome/fa-brands-400.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Font Awesome Solid';
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+    src: url('./FontAwesome/fa-solid-900.woff2') format('woff2');
+}
