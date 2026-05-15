@@ -15,8 +15,10 @@ I am Cody Solie, an incoming Master's student in Mathematics at [[https://www.sf
 under the supervision of [[https://www.sfu.ca/~jed/][Dr. Jonathan Jedwab]]. My research interests lie broadly
 among extremal combinatorics, computational complexity, and digital communications.
 Many of the problems I study have roots in computer science, or are inspired by
-problems therein. For the time being, I am currently working on a neurocomputation
-project at the [[https://www.uregina.ca/science/computer-science/index.html][University of Regina]] under [[https://www.oleskiw.ca][Dr. Tim Oleskiw]].
+problems therein.
+
+I am currently a member of the Visual and Neural Computation Laboratory
+at the [[https://www.uregina.ca/science/computer-science/index.html][University of Regina]], working under [[https://www.oleskiw.ca][Dr. Tim Oleskiw]].
 
 Check out my [[https://intersection-density.vercel.app][database]] of intersection densities for small transitive permutation
 groups!
