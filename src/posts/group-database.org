@@ -40,7 +40,7 @@ This was first defined in 2020 by Li, Song and Pantangi.
 
 The first basic observation we can make is that /$\rho(G)$ is bounded below by 1/. This is because
 we can always pull the stabilizer of a point out of a transitive group (and it will have order $\frac{|G|}{n}$).
-A profound result by [[https://arxiv.org/abs/2009.01086][Razafimahatratra, Meagher, Spiga]] shows that for $n>2$, $\rho(G) is /bounded
+A profound result by [[https://arxiv.org/abs/2009.01086][Razafimahatratra, Meagher, Spiga]] shows that for $n>2$, $\rho(G)$ is /bounded
 above by $\frac{n}{3}$/. Their approach came from the graph-theoretic formulation of the problem, in terms of
 the /derangement graph/. With these two results, we now have cheap-and-easy bounds for the possible values of
 $\rho(G)$ in terms of $n$, namely
