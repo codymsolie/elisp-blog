@@ -7,6 +7,8 @@
 </header>
 #+end_export
 
+[[./gallery.html][Gallery]] | [[./news.html][News]]
+
 #+ATTR_HTML: :width 100%
 #+ATTR_ORG: :width 70%
 [[file:figures/rock_climbing.webp]]
@@ -25,7 +27,7 @@ groups!
 
 # View my current CV
 
-* Blog Posts | [[./news.html][News]]
+* Blog Posts
 #+begin_src emacs-lisp :exports results :results html
   (mapconcat
    (lambda (p)

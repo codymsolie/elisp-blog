@@ -1,0 +1,20 @@
+#+title: Gallery
+
+Here are some fun photos from a variety of mathematics events
+(and beyond!) throughout the years.
+
+
+#+ATTR_HTML: :width 100%
+#+ATTR_ORG: :width 70%
+#+CAPTION: 2026 Prairie Discrete Mathematics Workshop at the University of Regina
+[[file:figures/pdmw2026.webp]]
+
+#+ATTR_HTML: :width 100%
+#+ATTR_ORG: :width 70%
+#+CAPTION: Lake Minnewanka Trail (August 2025)
+[[file:figures/minnewanka_1.webp]]
+
+#+ATTR_HTML: :width 100%
+#+ATTR_ORG: :width 70%
+#+CAPTION: Lake Minnewanka Trail (August 2025)
+[[file:figures/minnewanka_2.webp]]

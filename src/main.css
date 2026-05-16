@@ -40,6 +40,10 @@ body {
   line-height: 1.5;
 }
 
+p (max-width: 768px){
+    text-align: justify;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: var(--font-color-strong);
   margin-top: 1.5em;
