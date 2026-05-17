@@ -6,8 +6,15 @@ Here are some fun photos from a variety of mathematics events
 
 #+ATTR_HTML: :width 100%
 #+ATTR_ORG: :width 70%
-#+CAPTION: 2026 Prairie Discrete Mathematics Workshop at the University of Regina
+#+CAPTION: 2026 Prairie Discrete Mathematics Workshop at the University of Regina (May 2026)
 [[file:figures/pdmw2026.webp]]
+
+#+ATTR_HTML: :width 100%
+#+ATTR_ORG: :width 70%
+#+CAPTION: Post-PDMW Billiards! (May 2026)
+[[file:figures/pdmw_pool.webp]]
+
+
 
 #+ATTR_HTML: :width 100%
 #+ATTR_ORG: :width 70%

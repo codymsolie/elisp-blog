@@ -293,3 +293,12 @@ blockquote {
     background-color: currentColor;
   }
 }
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    padding-inline: 15px;
+}
